@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2c9c1a0.css",
-    "main.js": "/static/js/main.573b20c3.js",
+    "main.css": "/static/css/main.608e93a2.css",
+    "main.js": "/static/js/main.9ac08ed8.js",
     "static/media/bg.png": "/static/media/bg.4949e96808f247b5c766.png",
     "static/media/cover.jpg": "/static/media/cover.feea17e9caee9578ade4.jpg",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.2a2d37bf7680d86811db.ttf",
@@ -9,14 +9,15 @@
     "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.0915f0a8c3367a6d05ec.ttf",
     "static/media/Forum-Regular.ttf": "/static/media/Forum-Regular.6b8e836eb36b2f54db9a.ttf",
     "static/media/Montserrat-SemiBold.otf": "/static/media/Montserrat-SemiBold.b4f6721ba1a251742ea6.otf",
+    "static/media/Charmonman-Regular.ttf": "/static/media/Charmonman-Regular.b801d32d09acab0ede24.ttf",
     "static/media/name.png": "/static/media/name.86fa1aa5554aa1376822.png",
     "static/media/date.png": "/static/media/date.b0d2339604efd0b7b0d6.png",
     "index.html": "/index.html",
-    "main.c2c9c1a0.css.map": "/static/css/main.c2c9c1a0.css.map",
-    "main.573b20c3.js.map": "/static/js/main.573b20c3.js.map"
+    "main.608e93a2.css.map": "/static/css/main.608e93a2.css.map",
+    "main.9ac08ed8.js.map": "/static/js/main.9ac08ed8.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2c9c1a0.css",
-    "static/js/main.573b20c3.js"
+    "static/css/main.608e93a2.css",
+    "static/js/main.9ac08ed8.js"
   ]
 }
